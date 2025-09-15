@@ -4,7 +4,9 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.prompt import Prompt
 
-BASE_URL = "http://127.0.0.1:5000"
+# BASE_URL = "http://127.0.0.1:5000"
+BASE_URL = "https://proyecto1-redes.onrender.com"
+
 console = Console()
 
 
